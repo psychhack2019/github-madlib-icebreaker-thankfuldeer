@@ -1,16 +1,11 @@
 # github-icebreaker
 Icebreaker exercise for PyschHack 2019
 
-1. Your college name, Adjective, Body part 
+Follow the instructions in the python script!
+Each person on the team is responsible for adding a few words to the story. 
 
-2. Object, Illicit drug name, Action
-
-3.  Adjective, Body part, Place on campus, 
-
-4. Animal, Favorite curse word, Number
-
-4/5. Kitchen appliance, Name of one of the Kardashians
-
+Don't forget your team name, and for the last person on the team to run the script!
+Feel free to help each other out and have fun.
 
 
 *we can also cycle through each round = 1 word if we have less words
