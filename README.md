@@ -8,6 +8,6 @@ Don't forget your team name, and for the last person on the team to run the scri
 Feel free to help each other out and have fun.
 
 
-credit for mad lib sample:
+credit for mad lib sample
 https://www.theodysseyonline.com/an-open-letter-to-the-people-who-dont-tip-their-servers
 
