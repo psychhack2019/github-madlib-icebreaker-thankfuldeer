@@ -12,5 +12,3 @@ Feel free to help each other out and have fun.
 
 credit for mad lib sample:
 https://www.theodysseyonline.com/an-open-letter-to-the-people-who-dont-tip-their-servers
-
-testing changes
