@@ -1,4 +1,4 @@
-Icebreaker exercise for PyschHack 2019
+Icebreaker exercise for PsychHacks 2019
 
 Follow the instructions in the python madlib.py script. Each person on the team is responsible for adding a few words to the story. Once you're done stand up and cheer on the rest of your team!
 
