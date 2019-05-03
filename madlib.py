@@ -22,7 +22,7 @@ credits: adapted from PhD Comics
 import os
 
 #person 1
-teamName = "hihi"
+teamName = ""
 synonymForNew = ""
 sciencyVerb = ""
 buzzword = ""
