@@ -25,7 +25,7 @@ import os
 teamName = "ThankfulDeer"
 synonymForNew = "Fresh"
 sciencyVerb = "DeConflobaration"
-buzzword = "Bayesian"
+buzzword = "Bayesian Sstatistics"
 
 #person 2
 number = "45"
@@ -41,9 +41,9 @@ scientistThatScoopsYourLabConstantly = "Brian Harrington"
 dependentVariable = "Java"
 
 #person 4
-units = ""
-buzzword4 = ""
-supremeSocialogicalConcern = ""
+units = "kelvin"
+buzzword4 = "Keto"
+supremeSocialogicalConcern = "Expensive Toronto Apartments"
 nounFewPeopleHaveHeardOf = ""
 
 
