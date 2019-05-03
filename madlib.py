@@ -28,10 +28,10 @@ sciencyVerb = "DeConflobaration"
 buzzword = "Bayesian"
 
 #person 2
-number = ""
-buzzword2 = ""
-sexyAdjective = ""
-somethingYouDidntInvent = ""
+number = "45"
+buzzword2 = "Stochastic"
+sexyAdjective = "sexy"
+somethingYouDidntInvent = "microwave"
 
 
 #person 3
