@@ -25,7 +25,7 @@ import os
 teamName = "ThankfulDeer"
 synonymForNew = "Fresh"
 sciencyVerb = "DeConflobaration"
-buzzword = "Bayesian Sstatistics"
+buzzword = "Bayesian Statistics"
 
 #person 2
 number = "45"
