@@ -19,9 +19,10 @@ Check that the file is created successfully!
 
 credits: adapted from PhD Comics
 """
+import os
 
 #person 1
-teamName = ""
+teamName = "hihi"
 synonymForNew = ""
 sciencyVerb = ""
 buzzword = ""
@@ -65,6 +66,7 @@ nounFewPeopleHaveHeardOf = ""
 
 
 
+cwd = os.getcwd()
 
 story = ("This paper presents a " + synonymForNew + " method for " +
          sciencyVerb + "\nthe " + nounFewPeopleHaveHeardOf + ". Using " +
@@ -78,6 +80,6 @@ story = ("This paper presents a " + synonymForNew + " method for " +
         )
 
 
-madlib = open(teamName + "_madlib.txt", "w")
+madlib = open(os.path.join(cwd, teamName + "_madlib.txt"), "w")
 madlib.write(story)
 madlib.close()
