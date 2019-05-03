@@ -35,10 +35,10 @@ somethingYouDidntInvent = ""
 
 
 #person 3
-number2 = ""
-buzzword3 = ""
-scientistThatScoopsYourLabConstantly = ""
-dependentVariable = ""
+number2 = "47"
+buzzword3 = "Naruto"
+scientistThatScoopsYourLabConstantly = "Brian Harrington"
+dependentVariable = "Java"
 
 #person 4
 units = ""
