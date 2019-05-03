@@ -19,4 +19,3 @@ When the team is done have everyone sit back down.
 
 credits: adapted from PhD Comics
 
-story adapted from PhD Comics: https://tapas.io/episode/37261
